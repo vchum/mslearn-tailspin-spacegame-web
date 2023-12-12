@@ -9,7 +9,6 @@ trigger:
 - '*'
 
 pool: 
-  name: Default
   vmImage: ubuntu-latest
 
 variables:
