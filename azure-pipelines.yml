@@ -1,4 +1,4 @@
-pool: Azure Pipelines
+pool: Default
 steps:
 - bash: echo hello world
 - task: DotNetCoreCLI@2
